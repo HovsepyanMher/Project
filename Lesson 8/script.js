@@ -92,7 +92,7 @@ function draw() {
     }
 
  
-    for (var i in xotakerArr) {
+ /*   for (var i in xotakerArr) {
         xotakerArr[i].eat()
         xotakerArr[i].move()
         xotakerArr[i].mult()
@@ -120,7 +120,7 @@ function draw() {
         hovazikArr[i].mult()
         hovazikArr[i].die()
     }
-
+*/
 
 }
 
